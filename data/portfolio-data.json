@@ -1,0 +1,230 @@
+{
+  "meta": {
+    "title": "Dr. Sarah Mitchell | Psychology Professor",
+    "description": "Academic portfolio showcasing research in cognitive psychology, publications, and teaching excellence"
+  },
+  "personal": {
+    "name": "Dr. Sarah Mitchell",
+    "title": "Professor of Psychology",
+    "institution": "University of California, Berkeley",
+    "department": "Department of Psychology",
+    "location": "Berkeley, CA",
+    "avatar": "/confident-professional.png",
+    "email": "s.mitchell@berkeley.edu",
+    "phone": "+1 (510) 555-0123",
+    "officeHours": "Tuesday & Thursday, 2:00-4:00 PM",
+    "office": "Tolman Hall, Room 3210",
+    "availableForCollaboration": true,
+    "researchInterests": ["Cognitive Psychology", "Memory Research", "Learning Sciences", "Educational Psychology"],
+    "credentials": ["Ph.D. Psychology", "M.A. Cognitive Science", "Licensed Psychologist"],
+    "social": [
+      {
+        "platform": "ORCID",
+        "url": "https://orcid.org/0000-0000-0000-0000",
+        "icon": "BookOpen"
+      },
+      {
+        "platform": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=example",
+        "icon": "GraduationCap"
+      },
+      {
+        "platform": "ResearchGate",
+        "url": "https://www.researchgate.net/profile/example",
+        "icon": "Globe"
+      },
+      {
+        "platform": "LinkedIn",
+        "url": "https://linkedin.com/in/example",
+        "icon": "Linkedin"
+      }
+    ]
+  },
+  "about": {
+    "bio": "Dr. Sarah Mitchell is a distinguished Professor of Psychology at UC Berkeley, specializing in cognitive psychology and memory research. Her groundbreaking work on learning processes has influenced educational practices worldwide and earned recognition from the American Psychological Association.",
+    "academicFocus": [
+      "Advancing understanding of human memory and cognitive processes",
+      "Developing evidence-based educational interventions",
+      "Mentoring the next generation of psychological researchers",
+      "Bridging the gap between laboratory research and real-world applications"
+    ],
+    "degrees": [
+      {
+        "degree": "Ph.D. in Psychology",
+        "institution": "Stanford University",
+        "year": "2010",
+        "specialization": "Cognitive Psychology"
+      },
+      {
+        "degree": "M.A. in Cognitive Science",
+        "institution": "University of California, San Diego",
+        "year": "2006",
+        "specialization": "Memory and Learning"
+      },
+      {
+        "degree": "B.A. in Psychology",
+        "institution": "Harvard University",
+        "year": "2004",
+        "honors": "Summa Cum Laude, Phi Beta Kappa"
+      }
+    ],
+    "languages": [
+      {
+        "name": "English",
+        "proficiency": "Native",
+        "level": 100,
+        "flag": "🇺🇸"
+      },
+      {
+        "name": "Spanish",
+        "proficiency": "Fluent",
+        "level": 85,
+        "flag": "🇪🇸"
+      },
+      {
+        "name": "French",
+        "proficiency": "Intermediate",
+        "level": 70,
+        "flag": "🇫🇷"
+      },
+      {
+        "name": "German",
+        "proficiency": "Basic",
+        "level": 40,
+        "flag": "🇩🇪"
+      }
+    ],
+    "interests": ["Memory Research", "Educational Psychology", "Academic Writing", "Statistical Analysis", "Mentoring"]
+  },
+  "navigation": [
+    {
+      "label": "About",
+      "href": "/"
+    },
+    {
+      "label": "Research",
+      "href": "/research"
+    },
+    {
+      "label": "Publications",
+      "href": "/publications"
+    },
+    {
+      "label": "Teaching",
+      "href": "/teaching"
+    },
+    {
+      "label": "CV",
+      "href": "/cv"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Professor of Psychology",
+      "company": "University of California, Berkeley",
+      "period": "2018 - Present",
+      "description": "Lead research in cognitive psychology and memory sciences. Direct the Memory and Learning Lab with 12 graduate students and 2 postdoctoral researchers. Secured over $2.5M in NSF and NIH funding for groundbreaking research on memory formation and educational applications.",
+      "achievements": [
+        "Published 45+ peer-reviewed articles in top-tier psychology journals",
+        "Mentored 23 doctoral students to successful completion of their degrees",
+        "Received the UC Berkeley Distinguished Teaching Award (2022)",
+        "Established international collaborations with Oxford and Max Planck Institute"
+      ],
+      "technologies": ["R Statistical Software", "SPSS", "PsychoPy", "MATLAB", "Python"]
+    },
+    {
+      "title": "Associate Professor of Psychology",
+      "company": "University of Michigan",
+      "period": "2014 - 2018",
+      "description": "Conducted innovative research in memory and learning processes. Developed novel experimental paradigms that advanced understanding of how memories are formed and retrieved. Taught graduate and undergraduate courses in cognitive psychology and research methods.",
+      "achievements": [
+        "Secured $850K NSF CAREER Award for memory research",
+        "Published seminal work on memory consolidation in Nature Neuroscience",
+        "Developed new statistical methods for analyzing memory data",
+        "Established the Cognitive Development Research Consortium"
+      ],
+      "technologies": ["fMRI Analysis", "EEG", "Eye-tracking", "Statistical Modeling"]
+    },
+    {
+      "title": "Assistant Professor of Psychology",
+      "company": "Boston University",
+      "period": "2010 - 2014",
+      "description": "Launched independent research program investigating the neural mechanisms of memory formation. Established collaborations with neuroscience and education departments. Developed innovative teaching methods for statistics and research design courses.",
+      "achievements": [
+        "Received Early Career Award from American Psychological Association",
+        "Published 15 articles in high-impact journals including Science and PNAS",
+        "Developed open-source software for memory research",
+        "Mentored 8 undergraduate research students"
+      ],
+      "technologies": ["ERP Analysis", "Behavioral Experiments", "Grant Writing"]
+    }
+  ],
+  "credentials": {
+    "awards": [
+      {
+        "name": "Distinguished Scientist Award",
+        "issuer": "American Psychological Association",
+        "date": "2023"
+      },
+      {
+        "name": "UC Berkeley Distinguished Teaching Award",
+        "issuer": "University of California, Berkeley",
+        "date": "2022"
+      },
+      {
+        "name": "NSF CAREER Award",
+        "issuer": "National Science Foundation",
+        "date": "2015"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ph.D. in Psychology",
+        "institution": "Stanford University",
+        "year": "2006-2010"
+      },
+      {
+        "degree": "M.A. in Cognitive Science",
+        "institution": "University of California, San Diego",
+        "year": "2004-2006"
+      },
+      {
+        "degree": "B.A. in Psychology",
+        "institution": "Harvard University", 
+        "year": "2000-2004"
+      }
+    ],
+    "licenses": [
+      {
+        "name": "Licensed Psychologist",
+        "state": "California",
+        "number": "PSY 12345",
+        "issued": "2011",
+        "expires": "2025"
+      }
+    ],
+    "memberships": [
+      "American Psychological Association (Fellow)",
+      "Association for Psychological Science",
+      "Memory Disorders Research Society",
+      "International Society for Environmental Psychology"
+    ]
+  },
+  "technicalSkills": {
+    "research": ["Experimental Design", "Statistical Analysis", "fMRI", "EEG", "Eye-tracking", "Behavioral Testing"],
+    "software": ["R", "SPSS", "MATLAB", "Python", "PsychoPy", "E-Prime", "Git", "LaTeX"],
+    "methods": [
+      "Randomized Controlled Trials",
+      "Meta-Analysis", 
+      "Longitudinal Studies",
+      "Cross-sectional Research",
+      "Neuroimaging Analysis",
+      "Psychometric Testing"
+    ],
+    "teaching": ["Curriculum Development", "Online Learning", "Assessment Design", "Mentoring", "Grant Writing", "Academic Writing"]
+  }
+}

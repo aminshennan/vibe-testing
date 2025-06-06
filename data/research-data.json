@@ -1,0 +1,308 @@
+{
+  "researchProjects": {
+    "active": [
+      {
+        "id": "memory-formation-study",
+        "title": "Neural Mechanisms of Memory Formation in Educational Settings",
+        "slug": "memory-formation-study",
+        "status": "active",
+        "startDate": "2023-01-15",
+        "endDate": "2025-12-31",
+        "funding": {
+          "source": "National Science Foundation",
+          "amount": "$750,000",
+          "grantNumber": "NSF-BCS-2023-1234"
+        },
+        "researchQuestions": [
+          "How do educational environments influence memory consolidation processes?",
+          "What neural mechanisms underlie optimal learning conditions?",
+          "Can we identify predictive markers for effective memory formation?"
+        ],
+        "methodology": {
+          "approach": "Mixed-methods longitudinal study",
+          "participants": "120 undergraduate students",
+          "duration": "36 months",
+          "techniques": ["fMRI", "EEG", "Behavioral assessments", "Cognitive testing"]
+        },
+        "collaborators": [
+          {
+            "name": "Dr. Michael Chen",
+            "institution": "Stanford University",
+            "role": "Co-Principal Investigator"
+          },
+          {
+            "name": "Dr. Elena Rodriguez",
+            "institution": "UCLA",
+            "role": "Consultant"
+          }
+        ],
+        "students": {
+          "graduate": 4,
+          "undergraduate": 12,
+          "opportunities": true
+        },
+        "publications": [
+          "Chen, M., Mitchell, S., et al. (2024). Memory consolidation in educational contexts. Nature Neuroscience, 31(4), 123-145.",
+          "Mitchell, S., Rodriguez, E. (2023). Neural predictors of learning success. Journal of Educational Psychology, 89(2), 78-92."
+        ],
+        "description": "This groundbreaking study investigates how different educational environments and teaching methodologies influence the neural mechanisms underlying memory formation and retention. Using advanced neuroimaging techniques combined with behavioral assessments, we aim to identify optimal conditions for learning and develop evidence-based educational interventions.",
+        "impact": "High potential for transforming educational practices",
+        "keywords": ["Memory formation", "Educational neuroscience", "fMRI", "Learning optimization", "Cognitive psychology"]
+      },
+      {
+        "id": "attention-disorders-intervention",
+        "title": "Cognitive Intervention Strategies for Attention Disorders",
+        "slug": "attention-disorders-intervention",
+        "status": "active",
+        "startDate": "2022-09-01",
+        "endDate": "2024-08-31",
+        "funding": {
+          "source": "National Institutes of Health",
+          "amount": "$500,000",
+          "grantNumber": "NIH-R01-MH123456"
+        },
+        "researchQuestions": [
+          "Which cognitive training interventions are most effective for attention disorders?",
+          "How do individual differences affect intervention outcomes?",
+          "Can we develop personalized intervention protocols?"
+        ],
+        "methodology": {
+          "approach": "Randomized controlled trial",
+          "participants": "180 adults with ADHD",
+          "duration": "24 months",
+          "techniques": ["Cognitive training", "EEG", "Behavioral measures", "Neuropsychological testing"]
+        },
+        "collaborators": [
+          {
+            "name": "Dr. James Thompson",
+            "institution": "Harvard Medical School",
+            "role": "Clinical Consultant"
+          },
+          {
+            "name": "Dr. Lisa Park",
+            "institution": "UC Berkeley",
+            "role": "Co-Investigator"
+          }
+        ],
+        "students": {
+          "graduate": 3,
+          "undergraduate": 8,
+          "opportunities": true
+        },
+        "publications": [
+          "Mitchell, S., Thompson, J., et al. (2023). Personalized cognitive interventions for ADHD. Clinical Psychology Review, 45(3), 234-251."
+        ],
+        "description": "This research develops and tests novel cognitive intervention strategies for adults with attention disorders. Through systematic evaluation of different training protocols, we aim to create personalized intervention approaches that maximize therapeutic outcomes while considering individual cognitive profiles.",
+        "impact": "Direct clinical applications for ADHD treatment",
+        "keywords": ["ADHD", "Cognitive intervention", "Attention training", "Personalized therapy", "Clinical psychology"]
+      },
+      {
+        "id": "social-cognition-aging",
+        "title": "Social Cognition Changes Across the Lifespan",
+        "slug": "social-cognition-aging",
+        "status": "active",
+        "startDate": "2023-06-01",
+        "endDate": "2026-05-31",
+        "funding": {
+          "source": "National Institute on Aging",
+          "amount": "$425,000",
+          "grantNumber": "NIA-R21-AG067890"
+        },
+        "researchQuestions": [
+          "How does social cognition change with normal aging?",
+          "What factors protect against social cognitive decline?",
+          "Can targeted interventions preserve social cognitive function?"
+        ],
+        "methodology": {
+          "approach": "Cross-sectional and longitudinal design",
+          "participants": "300 adults aged 20-85",
+          "duration": "36 months",
+          "techniques": ["Social cognition tasks", "Neuroimaging", "Cognitive assessments", "Social network analysis"]
+        },
+        "collaborators": [
+          {
+            "name": "Dr. Robert Williams",
+            "institution": "University of Michigan",
+            "role": "Co-Principal Investigator"
+          }
+        ],
+        "students": {
+          "graduate": 2,
+          "undergraduate": 6,
+          "opportunities": true
+        },
+        "publications": [],
+        "description": "This longitudinal study examines how social cognitive abilities change across the adult lifespan, identifying protective factors and developing interventions to maintain social cognitive health in older adults.",
+        "impact": "Implications for healthy aging and social well-being",
+        "keywords": ["Social cognition", "Aging", "Lifespan development", "Cognitive health", "Social psychology"]
+      }
+    ],
+    "completed": [
+      {
+        "id": "working-memory-capacity",
+        "title": "Working Memory Capacity and Academic Performance",
+        "slug": "working-memory-capacity",
+        "status": "completed",
+        "startDate": "2019-01-01",
+        "endDate": "2022-12-31",
+        "funding": {
+          "source": "Department of Education",
+          "amount": "$300,000",
+          "grantNumber": "ED-IES-19-C-0123"
+        },
+        "researchQuestions": [
+          "How does working memory capacity predict academic success?",
+          "What interventions can improve working memory in students?",
+          "Which teaching methods best support students with limited working memory?"
+        ],
+        "methodology": {
+          "approach": "Longitudinal educational study",
+          "participants": "450 high school students",
+          "duration": "48 months",
+          "techniques": ["Cognitive assessments", "Academic performance tracking", "Intervention protocols"]
+        },
+        "collaborators": [
+          {
+            "name": "Dr. Amanda Foster",
+            "institution": "University of Pennsylvania",
+            "role": "Co-Principal Investigator"
+          }
+        ],
+        "students": {
+          "graduate": 5,
+          "undergraduate": 15,
+          "opportunities": false
+        },
+        "publications": [
+          "Mitchell, S., Foster, A., et al. (2022). Working memory and academic achievement: A four-year longitudinal study. Journal of Educational Psychology, 114(8), 1789-1805.",
+          "Foster, A., Mitchell, S. (2021). Classroom interventions for working memory limitations. Educational Psychology Review, 33(4), 1445-1468.",
+          "Mitchell, S., et al. (2020). Predictive validity of working memory assessments. Assessment, 27(3), 567-583."
+        ],
+        "description": "This comprehensive study followed high school students over four years to understand the relationship between working memory capacity and academic performance, leading to the development of evidence-based classroom interventions.",
+        "impact": "Informed educational policy and classroom practices",
+        "keywords": ["Working memory", "Academic performance", "Educational interventions", "Cognitive assessment", "Student success"]
+      },
+      {
+        "id": "emotional-regulation-learning",
+        "title": "Emotional Regulation and Learning Outcomes",
+        "slug": "emotional-regulation-learning",
+        "status": "completed",
+        "startDate": "2020-03-01",
+        "endDate": "2023-02-28",
+        "funding": {
+          "source": "Spencer Foundation",
+          "amount": "$200,000",
+          "grantNumber": "SF-202000345"
+        },
+        "researchQuestions": [
+          "How do emotional regulation skills affect learning and memory?",
+          "Can emotion regulation training improve academic outcomes?",
+          "What are the neural correlates of emotion-learning interactions?"
+        ],
+        "methodology": {
+          "approach": "Experimental intervention study",
+          "participants": "200 college students",
+          "duration": "36 months",
+          "techniques": ["EEG", "Emotional regulation training", "Learning assessments", "Neuroimaging"]
+        },
+        "collaborators": [
+          {
+            "name": "Dr. Sarah Kim",
+            "institution": "Yale University",
+            "role": "Consultant"
+          }
+        ],
+        "students": {
+          "graduate": 3,
+          "undergraduate": 10,
+          "opportunities": false
+        },
+        "publications": [
+          "Mitchell, S., Kim, S., et al. (2023). Emotional regulation training enhances learning outcomes. Emotion, 23(4), 1123-1140.",
+          "Kim, S., Mitchell, S. (2022). Neural mechanisms of emotion-learning interactions. Cognitive, Affective, & Behavioral Neuroscience, 22(5), 1089-1105."
+        ],
+        "description": "This study investigated how emotional regulation skills influence learning and memory processes, developing and testing intervention programs that integrate emotional regulation training with academic instruction.",
+        "impact": "Led to new emotional learning curricula in universities",
+        "keywords": ["Emotional regulation", "Learning outcomes", "Academic intervention", "EEG", "Educational psychology"]
+      }
+    ],
+    "planned": [
+      {
+        "id": "ai-enhanced-learning",
+        "title": "AI-Enhanced Personalized Learning Systems",
+        "slug": "ai-enhanced-learning",
+        "status": "planned",
+        "startDate": "2025-01-01",
+        "endDate": "2027-12-31",
+        "funding": {
+          "source": "National Science Foundation (Applied)",
+          "amount": "$900,000",
+          "grantNumber": "Pending - NSF-DRL-2025-5678"
+        },
+        "researchQuestions": [
+          "How can AI systems adapt to individual learning patterns?",
+          "What ethical considerations arise with AI in education?",
+          "Can AI-enhanced learning improve educational equity?"
+        ],
+        "methodology": {
+          "approach": "Multi-site randomized trial",
+          "participants": "1000+ students across multiple institutions",
+          "duration": "36 months",
+          "techniques": ["Machine learning", "Learning analytics", "Behavioral tracking", "Educational assessments"]
+        },
+        "collaborators": [
+          {
+            "name": "Dr. Alex Chen",
+            "institution": "MIT",
+            "role": "Technical Lead"
+          },
+          {
+            "name": "Dr. Maria Gonzalez",
+            "institution": "Stanford University",
+            "role": "Ethics Consultant"
+          }
+        ],
+        "students": {
+          "graduate": 6,
+          "undergraduate": 20,
+          "opportunities": true
+        },
+        "publications": [],
+        "description": "This ambitious project will develop and test AI-enhanced personalized learning systems that adapt to individual student needs while addressing ethical considerations and promoting educational equity.",
+        "impact": "Potential to revolutionize personalized education",
+        "keywords": ["Artificial intelligence", "Personalized learning", "Educational technology", "Learning analytics", "Educational equity"]
+      }
+    ]
+  },
+  "researchAreas": [
+    {
+      "name": "Cognitive Psychology",
+      "description": "Investigation of mental processes including memory, attention, perception, and learning",
+      "projects": ["memory-formation-study", "attention-disorders-intervention", "working-memory-capacity"]
+    },
+    {
+      "name": "Educational Psychology",
+      "description": "Application of psychological principles to educational settings and learning optimization",
+      "projects": ["memory-formation-study", "working-memory-capacity", "emotional-regulation-learning", "ai-enhanced-learning"]
+    },
+    {
+      "name": "Neuropsychology",
+      "description": "Study of brain-behavior relationships and neural mechanisms underlying cognitive processes",
+      "projects": ["memory-formation-study", "attention-disorders-intervention", "emotional-regulation-learning"]
+    },
+    {
+      "name": "Developmental Psychology",
+      "description": "Examination of cognitive and social changes across the lifespan",
+      "projects": ["social-cognition-aging"]
+    }
+  ],
+  "researchImpact": {
+    "totalFunding": "$3,075,000",
+    "totalPublications": 8,
+    "totalStudents": 67,
+    "collaboratingInstitutions": 8,
+    "ongoingProjects": 3,
+    "completedProjects": 2,
+    "plannedProjects": 1
+  }
+} 

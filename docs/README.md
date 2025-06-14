@@ -2,6 +2,7 @@
 
 Welcome to Dr. Sarah Mitchell's Academic Portfolio documentation. This directory contains all project documentation organized by purpose and type.
 
+
 ## 📁 Directory Structure
 
 ```
